@@ -1,0 +1,9 @@
+//
+//  Release.xcconfig
+//  TestXconfig
+//
+//  Created by Rashpinder on 21/12/17.
+//  Copyright © 2017 TestXconfig. All rights reserved.
+//
+#include "Pods/Target Support Files/Pods-TestXconfig/Pods-TestXconfig.release.xcconfig"
+BUID_KEY_API = 9992release97803
